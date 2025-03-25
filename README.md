@@ -2,18 +2,21 @@
 Repositório de conteúdo do curso DIO Bradesco 2025
 
 # Atalhos windowns
-crtl + shit + win + alt = office
-ctrl + win + shift + B = reinicia os drives da placa de vídeo
-win + R  / mrt = verificar vírus windowns defender
-win + R / NETPLWIZ = usuários suspeitos (caso, remover)
-win + shift + s = print área especifica do pc 
-win + alt + R = gravar tela
-win + G = ver gravações de tela 
-win + H = grava voz
-alt = tab = muda tela rapidamente
-win + R = src /scannernow = corrige programas e inconsistências
-win + C = copilot IA Microsoft
-win + R /cmd ou powershell = abrir prompt de comando
+
+| **Atalho**                | **Função**                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| crtl + shit + win + alt   | Abre Microsoft 365.                                                     |
+| ctrl + win + shift + B    | Reinicia os drives da placa de vídeo.                                   |
+| win + R  / mrt            | Verificar vírus windowns defender.                                      |
+| win + R / NETPLWIZ        | Procurar usuários suspeitos (caso, remover).                            |
+| win + shift + S           | Print área especifica do pc.                                            |
+| win + alt + R             | Gravar tela.                                                            |
+| win + G                   | Vizualizar gravações de tela salvas.                                    |
+| win + H                   | Gravar voz.                                                             |
+| win + R                   | Ativar o assistente do Eclipse para sugestões rápidas.                  |
+| win + C                   | Abrir copilot IA Microsoft.        .                                    |
+| win + R /cmd ou powershel | Abrir prompt de comando.                                                |
+| win+R/cmd src/scannernow  | Corrigir programas e inconsistências.                                   |
 
 # Atalhos Eclipse
 
