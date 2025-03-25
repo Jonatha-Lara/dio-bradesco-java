@@ -65,3 +65,12 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 | `Alt + F7`                | Mostrar onde um elemento do código está sendo usado.                    |
 | `Ctrl + /`                | Comentar ou descomentar código.                                          |
 | `Shift + Shift`           | Pesquisar qualquer coisa dentro da IDE.                                 |
+
+# Downloads
+
+| **Atalho**                | **Função**                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| `Vs Code`                 | https://code.visualstudio.com/docs/languages/java                                |
+| `Eclipse`                 | https://www.eclipse.org/downloads/packages/release/kepler/sr1/clipse-ide-java-developers                                             |
+| `Intelij IDEA`            | https://www.jetbrains.com/pt-br/idea/download/?section=windows                                               |
+| `jdk java`                | https://www.oracle.com/br/java/technologies/downloads/                                                   |
