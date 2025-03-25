@@ -5,18 +5,18 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 
 | **Atalho**                | **Função**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
-| crtl + shit + win + alt   | Abre Microsoft 365.                                                     |
-| ctrl + win + shift + B    | Reinicia os drives da placa de vídeo.                                   |
-| win + R  / mrt            | Verificar vírus windowns defender.                                      |
-| win + R / NETPLWIZ        | Procurar usuários suspeitos (caso, remover).                            |
-| win + shift + S           | Print área especifica do pc.                                            |
-| win + alt + R             | Gravar tela.                                                            |
-| win + G                   | Vizualizar gravações de tela salvas.                                    |
-| win + H                   | Gravar voz.                                                             |
-| win + R                   | Ativar o assistente do Eclipse para sugestões rápidas.                  |
-| win + C                   | Abrir copilot IA Microsoft.        .                                    |
-| win + R /cmd ou powershel | Abrir prompt de comando.                                                |
-| win+R/cmd src/scannernow  | Corrigir programas e inconsistências.                                   |
+| `crtl + shit + win + alt`   | Abre Microsoft 365.                                                     |
+|`ctrl + win + shift + B`    | Reinicia os drives da placa de vídeo.                                   |
+| `win + R  / mrt`            | Verificar vírus windowns defender.                                      |
+| `win + R / NETPLWIZ`        | Procurar usuários suspeitos (caso, remover).                            |
+| `win + shift + S`           | Print área especifica do pc.                                            |
+| `win + alt + R`             | Gravar tela.                                                            |
+| `win + G`                   | Vizualizar gravações de tela salvas.                                    |
+| `win + H`                   | Gravar voz.                                                             |
+| `win + R`                   | Ativar o assistente do Eclipse para sugestões rápidas.                  |
+| `win + C`                   | Abrir copilot IA Microsoft.        .                                    |
+| `win + R /cmd ou powershel` | Abrir prompt de comando.                                                |
+| `win+R/cmd src/scannernow`  | Corrigir programas e inconsistências.                                   |
 
 # Atalhos Eclipse
 
@@ -68,7 +68,7 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 
 # Downloads
 
-| **Atalho**                | **Função**                                                                 |
+| **Artefato**                | **Endereço**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `Vs Code`                 | https://code.visualstudio.com/docs/languages/java                                |
 | `Eclipse`                 | https://www.eclipse.org/downloads/packages/release/kepler/sr1/clipse-ide-java-developers                                             |
