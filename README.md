@@ -74,3 +74,7 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 | `Eclipse`                 | https://www.eclipse.org/downloads/packages/release/kepler/sr1/clipse-ide-java-developers                                             |
 | `Intelij IDEA`            | https://www.jetbrains.com/pt-br/idea/download/?section=windows                                               |
 | `jdk java`                | https://www.oracle.com/br/java/technologies/downloads/                                                   |
+
+# Desafios DIO
+
+- [Contrinuindo com Projeto Open Source](https://github.com/Jonatha-Lara/dio-bradesco-java)
