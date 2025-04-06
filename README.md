@@ -9,7 +9,7 @@ Repositório de conteúdo do bootcamp Bradesco Java Cloud Native 2025.
 
 # Atalhos 
 
-##Windowns
+## Windowns
 
 | **Atalho**                | **Função**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ Repositório de conteúdo do bootcamp Bradesco Java Cloud Native 2025.
 | `win + R /cmd ou powershel` | Abrir prompt de comando.                                                |
 | `win+R/cmd src/scannernow`  | Corrigir programas e inconsistências.                                   |
 
-##Eclipse
+## Eclipse
 
 | **Atalho**                | **Função**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
