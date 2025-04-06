@@ -100,6 +100,8 @@ Repositório de conteúdo do bootcamp Bradesco Java Cloud Native 2025.
 [ Loading... ]
 
 # ![UX](assets/about.png) About
+Hi, my name is Jonatha. I live in Londrina, PR, and I am a Java Systems Development Analyst. I have a degree as a Technologist in Systems Analysis and Development from Unicesumar, and I am currently pursuing a postgraduate degree at the Federal University of Paraná in Agile Software Methodology.
+
  Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software.
 
 
