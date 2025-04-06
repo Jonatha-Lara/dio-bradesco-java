@@ -84,15 +84,20 @@ Repositório de conteúdo do bootcamp Bradesco Java Cloud Native 2025.
 | `jdk java`                | https://www.oracle.com/br/java/technologies/downloads/                                                   |
 
 
+# Comandos GitHub
 [ Loading... ]
 
-# Comandos GitHub
-
 # Java Básico
+[ Loading... ]
 
 # Certificados DIO
+[ Loading... ]
 
 # Desafios DIO
+[ Loading... ]
+
+# Outros tópicos
+[ Loading... ]
 
 # ![UX](assets/about.png) About
  Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software.
