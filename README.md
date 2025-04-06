@@ -1,7 +1,15 @@
-# dio-bradesco-java
-Repositório de conteúdo do curso DIO Bradesco 2025
 
-# Atalhos windowns
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> dio-bradesco-java</span>
+</h1>
+
+Repositório de conteúdo do bootcamp Bradesco Java Cloud Native 2025.
+
+# Atalhos 
+
+##Windowns
 
 | **Atalho**                | **Função**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -18,7 +26,7 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 | `win + R /cmd ou powershel` | Abrir prompt de comando.                                                |
 | `win+R/cmd src/scannernow`  | Corrigir programas e inconsistências.                                   |
 
-# Atalhos Eclipse
+##Eclipse
 
 | **Atalho**                | **Função**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -34,7 +42,7 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 | `Alt + Shift + A`         | Ativar seleção em bloco.                                                |
 
  ----------------------------
-# Atalhos Visual Studio Code
+## Visual Studio Code
 
 | **Atalho**                | **Função**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -51,7 +59,7 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 
 
 
-# Atalhos IntelliJ IDEA
+## IntelliJ IDEA
 
 | **Atalho**                | **Função**                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -75,17 +83,33 @@ Repositório de conteúdo do curso DIO Bradesco 2025
 | `Intelij IDEA`            | https://www.jetbrains.com/pt-br/idea/download/?section=windows                                               |
 | `jdk java`                | https://www.oracle.com/br/java/technologies/downloads/                                                   |
 
-<<<<<<< HEAD
- ## 🤓Quem sou eu?
- Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software. Fiz transição de carreira na pandemia e trabalho com o mesmo cliente desde então.
 
-🏹`Skills`
+[ Loading... ]
 
-Java, Java Script, Html, CSS, React, Angular, PHP, Node.js, tomcat, Apache e Nginx, Shell, Bancos de dados Relacionais SQL, DB2, COBOL, API RestFull, midewares, UX Design, Pensamento Learn, Mapas Mentais, Testes Automatizados, Prototipação Figma, AWS, Azure, Kubbernetz, Docker, Integração Contínua, Entrega Contínua, trabalho em equipe, scrum, jira, git, gitHub, gitlab, gid (IBM), Arquitetura de sistemas, Engenharia de Software. 
+# Comandos GitHub
 
-![System Analyst](assets/portifolio-developer.png)
-=======
+# Java Básico
+
+# Certificados DIO
+
 # Desafios DIO
 
-- [Contrinuindo com Projeto Open Source](https://github.com/Jonatha-Lara/dio-bradesco-java)
->>>>>>> origin/main
+# ![UX](assets/about.png) About
+ Oi meu nome é Jonatha, resido em Londrina - PR, sou analista desenvolvedor de sistemas Java. Tenho graduação como Tecnólogo em Análse e Desenvolvimento de Sistemas na Unicesumar e atualmente faço uma pós graduação na Universidade Federal do Paraná em Metodologia Ágil de Software.
+
+
+![System Analyst](assets/portifolio-developer.png)
+
+<div align="center">
+<img height="200em" weight="180em" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
+</div>
+
+<div align="center"> 
+<a href="https://www.instagram.com/jonsilveriolara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:jonathalarasilverio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jonatha-lara-silv%C3%A9rio-15b83b101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ <br><br>
+
+ </div>
+ 
+<div style="display: inline_block"><br>
