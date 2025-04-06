@@ -7,7 +7,7 @@
 
 Repositório de conteúdo do bootcamp Bradesco Java Cloud Native 2025.
 
-# Atalhos 
+# Atalhos Úteis
 
 ## Windowns
 
@@ -83,9 +83,12 @@ Repositório de conteúdo do bootcamp Bradesco Java Cloud Native 2025.
 | `Intelij IDEA`            | https://www.jetbrains.com/pt-br/idea/download/?section=windows                                               |
 | `jdk java`                | https://www.oracle.com/br/java/technologies/downloads/                                                   |
 
-
 # Comandos GitHub
 [ Loading... ]
+
+# Comandos via Terminal
+
+[ Loading ...
 
 # Java Básico
 [ Loading... ]
